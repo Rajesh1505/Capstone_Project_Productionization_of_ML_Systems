@@ -44,7 +44,7 @@ Build a regression model to predict the price of a flight using the flights.csv 
 
 
 ## Solution Overview:
-- Machine Learning Model: A Random Forest model trained on historical flight data.
+- Machine Learning Model: Multiple ML model trained on historical flight data (Selected Random Forest Model).
 - Web Application: A Flask app for interacting with users and making predictions.
 - Experiment Tracking: MLflow is used to track experiments, version models, and log metrics.
 - Deployment: Docker is used to containerize the Flask application for easy deployment and scalability.
