@@ -43,6 +43,14 @@ In the realm of travel and tourism, the intersection of data analytics and machi
 Build a regression model to predict the price of a flight using the flights.csv dataset. Focus on feature selection, model training, and validation to ensure accuracy and reliability.
 
 
+## Solution Overview:
+- Machine Learning Model: A Random Forest model trained on historical flight data.
+- Web Application: A Flask app for interacting with users and making predictions.
+- Experiment Tracking: MLflow is used to track experiments, version models, and log metrics.
+- Deployment: Docker is used to containerize the Flask application for easy deployment and scalability.
+
+
+
 # Conclusion:
 
 
