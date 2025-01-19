@@ -51,5 +51,6 @@ def index():
         # Render the HTML template with dynamic data
         return render_template('index.html', input_data=data, prediction=prediction)
 
+# Author: Rajesh Kumar Patel
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)

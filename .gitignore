@@ -135,6 +135,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+#dataset
+MLOps/flights.csv
+#models
+# MLOps/rf_model.joblib
+# MLOps/cat_encoder.joblib
 
 # Spyder project settings
 .spyderproject
